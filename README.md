@@ -4,9 +4,9 @@
 
 <br>
 
-- 🌱 Atualmente estou Cursando Bacharelado em Sistemas de Informação, e com foco em aprofundar meus conhecimentos em **Linguagem C**.
+- 🌱 Atualmente estou Cursando Bacharelado em Sistemas de Informação, e com foco em aprofundar meus conhecimentos na área.
 - 💻 Tenho praticado minhas habilidades de lógica e programação na plataforma **BeeCrowd**.
-- Transitionando do **Portugol** para o **C**, construindo uma base sólida para o desenvolvimento de software.
+- Atualmente focado na linguagem **C**, onde estou construindo uma base sólida para o desenvolvimento de software na faculdade.
 
 <br>
 
