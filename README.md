@@ -1,4 +1,8 @@
+<img src="https://i.pinimg.com/originals/ab/de/8d/abde8d9dbb4fcb0b07ce2586f39346f6.gif" align="right" width="150">
+
 # Olá, eu sou o Arthur! 👋
+
+<br clear="both"/>
 
 ### Um estudante de Bacharelado de Sistemas de Informação apaixonado por resolver problemas e aprender novas tecnologias.
 
