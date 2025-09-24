@@ -22,7 +22,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 [![Estatísticas de Arthur no GitHub](https://github-readme-stats.vercel.app/api?username=arthurgxtz-exe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/arthurgxtz-exe)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgxtz-exe&layout=compact&theme=dracula)](https://github.com/arthurgxtz-exe)
 <br>
 
 ### 📫 Como me encontrar:
