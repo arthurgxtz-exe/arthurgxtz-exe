@@ -5,7 +5,7 @@
       Sou Um estudante de Bacharelado em Sistemas de Informação apaixonado por resolver problemas e aprender novas tecnologias.<br><br>
       - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação.<br>
       - 💻 Tenho praticado minhas habilidades de lógica e programação na plataforma **BeeCrowd**.<br>
-      - 👨‍💻 Atualmente focado na linguagem C, na qual estou, estudando estruturas de dados.
+      - 👨‍💻 Atualmente focado na linguagem C, na qual estou, estudando estruturas de dados.<br>
       - Esse não é meu perfil profissional, apenas acadêmico, você encontrará aqui apenas projetos, e códigos da minha trajétoria acadêmica.
     </td>
     <td>
