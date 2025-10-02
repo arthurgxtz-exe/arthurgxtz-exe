@@ -6,7 +6,11 @@
       - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação.<br>
       - 💻 Tenho praticado minhas habilidades de lógica e programação na plataforma **BeeCrowd**.<br>
       - 👨‍💻 Atualmente focado na linguagem C, na qual estou, estudando estruturas de dados.<br>
-      - Esse não é meu perfil profissional, apenas acadêmico, você encontrará aqui apenas projetos, e códigos da minha trajétoria acadêmica.
+      - Esse não é meu perfil profissional, apenas acadêmico, você encontrará aqui apenas projetos, e códigos da minha trajétoria acadêmica.<br><br>
+      📌 
+
+- **[Estrutura de Dados I & II](https://github.com/arthurgxtz-exe/Estrutura-de-Dados-I-e-II)**: Repositório com todos os exercícios e minha evolução na matéria de Estrutura de Dados, usando a Linguagem C.
+- Em breve, novos projetos aqui!
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/ab/de/8d/abde8d9dbb4fcb0b07ce2586f39346f6.gif" width="150">
