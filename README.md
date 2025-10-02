@@ -1,18 +1,18 @@
-<img src="https://i.pinimg.com/originals/ab/de/8d/abde8d9dbb4fcb0b07ce2586f39346f6.gif" align="right" width="150">
+### Olá, eu sou o Arthur! 👋<br>
+<table>
+  <tr>
+    <td>
+      Sou Um estudante de Bacharelado em Sistemas de Informação apaixonado por resolver problemas e aprender novas tecnologias.<br><br>
+      - 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação.<br>
+      - 💻 Tenho praticado minhas habilidades de lógica e programação na plataforma **BeeCrowd**.<br>
+      - Atualmente focado na linguagem **C**, construindo uma base sólida em estruturas de dados.
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/ab/de/8d/abde8d9dbb4fcb0b07ce2586f39346f6.gif" width="150">
+    </td>
+  </tr>
+</table>
 
-# Olá, eu sou o Arthur! 👋
-
-<br clear="both"/>
-
-### Um estudante de Bacharelado de Sistemas de Informação apaixonado por resolver problemas e aprender novas tecnologias.
-
-<br>
-
-- 🌱 Atualmente estou Cursando Bacharelado em Sistemas de Informação, e com foco em aprofundar meus conhecimentos na área.
-- 💻 Tenho praticado minhas habilidades de lógica e programação na plataforma **BeeCrowd**.
-- Atualmente focado na linguagem **C**, onde estou construindo uma base sólida para o desenvolvimento de software na faculdade.
-
-<br>
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -24,14 +24,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+---
+
 ### 📊 Minhas Estatísticas no GitHub
 
 [![Estatísticas de Arthur no GitHub](https://github-readme-stats.vercel.app/api?username=arthurgxtz-exe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/arthurgxtz-exe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgxtz-exe&layout=compact&theme=dracula)](https://github.com/arthurgxtz-exe)
-<br>
 
-### 📫 Como me encontrar:
-<a href="https://www.linkedin.com/in/arthur-ferreira-a76064166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/arthurgxtz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/F4JqufJRRJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+---
 
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ferreira-a76064166/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurgxtz/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F4JqufJRRJ)
