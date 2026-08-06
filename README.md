@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Arthur!</h1>
 
 <p align="center">
-  <em>Estudante de <strong>Bacharelado em Sistemas de Informação</strong> apaixonado por tecnologia, lógica e desafios.</em>
+  <em>Técnico em Informática e estudante de <strong>Bacharelado em Sistemas de Informação</strong>, apaixonado por tecnologia, lógica e desafios.</em>
 </p>
 
 ---
@@ -10,20 +10,22 @@
 <tr>
 <td width="70%" valign="top">
 
-🎓 Sou estudante do <strong>IFNMG – Campus Januária</strong>, cursando <strong>Sistemas de Informação</strong> e apaixonado por <strong>resolução de problemas e estruturas de dados</strong>.<br>
-Tenho uma base técnica sólida e estou sempre buscando aprimorar minhas habilidades de programação.
+🎓 Sou estudante do <strong>IFNMG – Campus Januária</strong>, cursando <strong>Sistemas de Informação</strong> e apaixonado por <strong>resolução de problemas e desenvolvimento de software</strong>.<br>
+Tenho uma base sólida como Técnico em Informática e estou sempre buscando aprimorar minhas habilidades de programação e arquitetura de sistemas.
 <br><br>
 
-🚀 <strong>Atualmente:</strong><br>
-💡 Estudando <strong>Estruturas de Dados</strong> com foco em <strong>C</strong><br>
-🧩 Praticando lógica de programação na <strong>BeeCrowd</strong> (30k pontos)<br>
-⚙️ Desenvolvendo projetos acadêmicos e exercícios práticos
+🚀 <strong>Atualmente explorando:</strong><br>
+☕ <strong>Programação Orientada a Objetos (POO)</strong> em Java<br>
+💡 <strong>Estruturas de Dados e Algoritmos Clássicos</strong> em C<br>
+🐧 <strong>Sistemas Operacionais</strong> e chamadas de sistema<br>
+🧩 Praticando lógica de programação na <strong>BeeCrowd</strong> (30k+ pontos)
 <br><br>
 
 📚 <strong>Repositórios em destaque:</strong><br>
+☕ <a href="https://github.com/arthurgxtz-exe/Programacao-Orientada-a-Objetos-POO"><strong>Programação Orientada a Objetos (POO)</strong></a><br>
+Projetos práticos e exercícios focados em classes, encapsulamento e polimorfismo em Java.<br><br>
 🧠 <a href="https://github.com/arthurgxtz-exe/Estrutura-de-Dados-I-e-II"><strong>Estrutura de Dados I & II</strong></a><br>
-Exercícios e projetos desenvolvidos em C durante as disciplinas de Estruturas de Dados.<br>
-✨ <em>Novos projetos chegando em breve!</em>
+Exercícios e algoritmos desenvolvidos em C durante as disciplinas de Estruturas de Dados.
 
 </td>
 <td align="center" width="30%">
@@ -40,7 +42,7 @@ Exercícios e projetos desenvolvidos em C durante as disciplinas de Estruturas d
 
 | **Linguagens** | **Ferramentas & Ambientes** | **Controle de Versão** |
 |:---------------:|:---------------------------:|:----------------------:|
-| ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87A556?style=for-the-badge&logo=linux-mint&logoColor=white)| ![Git](https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white) |
 
 </div>
 
