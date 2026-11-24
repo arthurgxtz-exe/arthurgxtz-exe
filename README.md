@@ -11,14 +11,7 @@
 <td width="70%" valign="top">
 
 🎓 Sou estudante do <strong>IFNMG – Campus Januária</strong>, cursando <strong>Sistemas de Informação</strong> e apaixonado por <strong>resolução de problemas e desenvolvimento de software</strong>.<br>
-Tenho uma base sólida como Técnico em Informática e estou sempre buscando aprimorar minhas habilidades de programação e arquitetura de sistemas.
-<br><br>
-
-🚀 <strong>O que venho estudando:</strong><br>
-☕ <strong>Java</strong> — programação orientada a objetos<br>
-💡 <strong>C</strong> — estruturas de dados e algoritmos<br>
-🐧 <strong>Sistemas operacionais</strong> — chamadas de sistema<br>
-🧩 <strong>beecrowd</strong> — prática de lógica e resolução de problemas
+Tenho uma base sólida como Técnico em Informática e estou sempre buscando aprimorar minhas habilidades de programação e arquitetura de sistemas. Também pratico lógica de programação resolvendo desafios no <strong>beecrowd</strong>.
 <br><br>
 
 📚 <strong>Repositórios em destaque:</strong><br>
