@@ -14,11 +14,11 @@
 Tenho uma base sólida como Técnico em Informática e estou sempre buscando aprimorar minhas habilidades de programação e arquitetura de sistemas.
 <br><br>
 
-🚀 <strong>Atualmente explorando:</strong><br>
-☕ <strong>Programação Orientada a Objetos (POO)</strong> em Java<br>
-💡 <strong>Estruturas de Dados e Algoritmos Clássicos</strong> em C<br>
-🐧 <strong>Sistemas Operacionais</strong> e chamadas de sistema<br>
-🧩 Praticando lógica de programação na <strong>BeeCrowd</strong> (30k+ pontos)
+🚀 <strong>O que venho estudando:</strong><br>
+☕ <strong>Java</strong> — programação orientada a objetos<br>
+💡 <strong>C</strong> — estruturas de dados e algoritmos<br>
+🐧 <strong>Sistemas operacionais</strong> — chamadas de sistema<br>
+🧩 <strong>beecrowd</strong> — prática de lógica e resolução de problemas
 <br><br>
 
 📚 <strong>Repositórios em destaque:</strong><br>
