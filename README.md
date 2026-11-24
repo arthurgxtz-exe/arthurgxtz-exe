@@ -76,8 +76,3 @@ Exercícios e algoritmos desenvolvidos em C durante as disciplinas de Estruturas
   <img src="https://komarev.com/ghpvc/?username=arthurgxtz-exe&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
----
-
-<p align="center">
-  <em>“A prática constante é o caminho para dominar qualquer linguagem — inclusive a da lógica.” 🧠</em>
-</p>
